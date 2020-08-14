@@ -1,0 +1,9 @@
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\bin\Release\PMYS.exe.config
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Release\PMYS.Personel.resources
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Release\PMYS.Properties.Resources.resources
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Release\PMYS.csproj.GenerateResource.Cache
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\bin\Release\PMYS.exe
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\bin\Release\PMYS.pdb
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Release\PMYS.exe
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Release\PMYS.pdb

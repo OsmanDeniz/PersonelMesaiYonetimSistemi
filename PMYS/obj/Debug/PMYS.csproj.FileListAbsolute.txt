@@ -1,0 +1,27 @@
+c:\users\osman\documents\visual studio 2012\Projects\PMYS\PMYS\bin\Debug\PMYS.exe
+c:\users\osman\documents\visual studio 2012\Projects\PMYS\PMYS\bin\Debug\PMYS.pdb
+c:\users\osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Debug\PMYS.Properties.Resources.resources
+c:\users\osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Debug\PMYS.csproj.GenerateResource.Cache
+c:\users\osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Debug\PMYS.exe
+c:\users\osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Debug\PMYS.pdb
+c:\users\osman\documents\visual studio 2012\Projects\PMYS\PMYS\obj\Debug\PMYS.Personel.resources
+C:\Users\Osman\documents\visual studio 2012\Projects\PMYS\PMYS\bin\Debug\PMYS.exe.config
+C:\Users\Osman\Desktop\PMYS\PMYS\bin\Debug\PMYS.exe.config
+C:\Users\Osman\Desktop\PMYS\PMYS\obj\Debug\PMYS.exe
+C:\Users\Osman\Desktop\PMYS\PMYS\obj\Debug\PMYS.pdb
+C:\Users\Osman\Desktop\PMYS\PMYS\bin\Debug\PMYS.exe
+C:\Users\Osman\Desktop\PMYS\PMYS\bin\Debug\PMYS.pdb
+C:\Users\Osman\Desktop\PMYS\PMYS\obj\Debug\PMYS.csprojResolveAssemblyReference.cache
+C:\Users\Osman\Desktop\PMYS\PMYS\obj\Debug\PMYS.Personel.resources
+C:\Users\Osman\Desktop\PMYS\PMYS\obj\Debug\PMYS.Properties.Resources.resources
+C:\Users\Osman\Desktop\PMYS\PMYS\obj\Debug\PMYS.csproj.GenerateResource.Cache
+C:\Users\Osman\Documents\Visual Studio 2012\Projects\PMYS\PMYS\obj\Debug\PMYS.csprojResolveAssemblyReference.cache
+C:\Users\Osman\Desktop\PMYS_2\PMYS\bin\Debug\PMYS.exe.config
+C:\Users\Osman\Desktop\PMYS_2\PMYS\obj\Debug\PMYS.exe
+C:\Users\Osman\Desktop\PMYS_2\PMYS\obj\Debug\PMYS.pdb
+C:\Users\Osman\Desktop\PMYS_2\PMYS\bin\Debug\PMYS.exe
+C:\Users\Osman\Desktop\PMYS_2\PMYS\bin\Debug\PMYS.pdb
+C:\Users\Osman\Desktop\PMYS_2\PMYS\obj\Debug\PMYS.csprojResolveAssemblyReference.cache
+C:\Users\Osman\Desktop\PMYS_2\PMYS\obj\Debug\PMYS.Personel.resources
+C:\Users\Osman\Desktop\PMYS_2\PMYS\obj\Debug\PMYS.Properties.Resources.resources
+C:\Users\Osman\Desktop\PMYS_2\PMYS\obj\Debug\PMYS.csproj.GenerateResource.Cache
